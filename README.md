@@ -1,4 +1,4 @@
-# Flask on Cloud VM (Assignment 2)
+# Flask on Cloud VM
 HHA504 Assignment 2: Cloud Foundations for Health Informatics
 
 ## Student Info
