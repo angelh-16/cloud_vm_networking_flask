@@ -6,7 +6,7 @@ HHA504 Assignment 2: Cloud Foundations for Health Informatics
 - Cloud Provider: Google Cloud Platform (GCP)
 
 ## Video recording: 
-- Zoom video: https://drive.google.com/file/d/1sac5CZZTq29bMdtDAJHk1PVnjPVZI-rt/view?usp=sharing
+- Zoom video: https://drive.google.com/file/d/1KX0tLE53fetstQ6Nj4LhsGhG7vPAEpK2/view?usp=sharing
 
 ## Steps
 ### 1. VM Creation
