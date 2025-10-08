@@ -79,6 +79,6 @@ http://<PUBLIC_IP>:5003
 ![screenshot of terminal + browser](images/gcp/gcp_step21.png)
 
 ### 5. Public IP Access
-URL: http://104.196.212.141:5003
+URL: http://104.196.24.96:5003
 **NOTE: URL is not running anymore after VM is deleted**
 ![screenshot](images/gcp/gcp_step21.png)
