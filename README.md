@@ -22,7 +22,8 @@ HHA504 Assignment 2: Cloud Foundations for Health Informatics
 [screenshot of terminal + browser]
 
 ### 5. Public IP Access
-URL: http://XX.XX.XXX.XXX:5003  
+URL: http://104.196.212.141:5003
+**NOTE: URL is not running anymore after VM is deleted**
 [screenshot]
 
 ### 6. (Bonus) Domain Name
