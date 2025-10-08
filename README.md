@@ -25,7 +25,7 @@ HHA504 Assignment 2: Cloud Foundations for Health Informatics
 11. Check the boxes " Allow HTTP traffic " and : Allow HTTPS traffic "
 12. Click " Create "
 - Once you see a green circle with a check next to the name of your VM, it is up and running
-![screenshot](images/gcp/gcp_step21.png)
+![screenshot](images/create_vm.png)
 
 ### 2. Networking (Port 5003 Open)
 1. Once VM is running, click " Set up firewall rules" and then " Create firewall rules
@@ -34,7 +34,7 @@ HHA504 Assignment 2: Cloud Foundations for Health Informatics
 4. Scroll up and click "Targets" and change it to "All instances in the network"
 5. Type " 0.0.0.0/0 " under Source IPv4 ranges "
 6. Click " Create " and it should show up in the list now
-![screenshot](images/gcp/gcp_step21.png)
+![screenshot](images/create_firewall.png)
 
 ### 3. OS Update + Python Install
 1.  Click the arrow back on your browser to go back to seeing the VM you just created
@@ -68,17 +68,17 @@ HHA504 Assignment 2: Cloud Foundations for Health Informatics
  ```bash
     python3 app.py
    ```
-![commands + screenshot](images/gcp/gcp_step21.png)
+![commands + screenshot](images/ssh.png)
 
 ### 4. Flask App Running
 1. Exit the SSH and back to looking at your VM
 2. Copy the IP under "External IP"
 3. Open a new browser and paste your IP into this: 
 http://<PUBLIC_IP>:5003
-4. Click enter
-![screenshot of terminal + browser](images/gcp/gcp_step21.png)
+![screenshot of terminal](images/terminal.png)
+![screenshot of browser](images/running.png)
 
 ### 5. Public IP Access
-URL: http://104.196.24.96:5003
-**NOTE: URL is not running anymore after VM is deleted**
-![screenshot](images/gcp/gcp_step21.png)
+URL: http://104.196.24.96:5003 \
+![screenshot](images/ip.png) \
+*NOTE: URL is not running anymore after VM is deleted*
